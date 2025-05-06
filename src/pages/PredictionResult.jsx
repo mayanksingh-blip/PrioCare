@@ -121,7 +121,7 @@ const PredictionResult = () => {
               </Grid>
               <Grid item xs={6} sm={4}>
                 <Typography variant="body2" color="text.secondary">Temperature</Typography>
-                <Typography variant="body1" sx={{ fontWeight: 500 }}>{patientData.Temperature}°F</Typography>
+                <Typography variant="body1" sx={{ fontWeight: 500 }}>{patientData.Temperature}°C</Typography>
               </Grid>
               <Grid item xs={12} sm={4}>
                 <Typography variant="body2" color="text.secondary">Oxygen Saturation</Typography>
