@@ -1,0 +1,651 @@
+Age,Gender,Symptoms,Blood_Pressure,Heart_Rate,Temperature,Oxygen_Saturation,Allergies,Medical_History,Emergency_Status
+2,Male,"Headache, Chest pain",173/104,101,104.9,95,Peanuts,"Asthma, Cancer, Diabetes",No Admission at All
+77,Male,"Fever, Nausea, Headache",132/112,112,95.1,100,"None, Penicillin","Cancer, None",No Admission in Emergency
+39,Male,"Fever, Chest pain, Nausea",125/88,50,98.9,89,Pollen,"Hypertension, None, Asthma",Admitted in Emergency
+36,Male,Headache,90/60,137,104.4,83,"Pollen, None","Asthma, Cancer, Heart Disease",Admitted in Emergency
+66,Other,Shortness of breath,177/107,142,100.1,88,"Seafood, Penicillin","Asthma, Diabetes",No Admission at All
+30,Other,Fever,172/64,142,100.2,87,Peanuts,"Heart Disease, Kidney Disease, Diabetes",Admitted in Emergency
+38,Female,"Cough, Headache",91/101,107,103.6,80,"Pollen, Seafood","Asthma, Hypertension",No Admission in Emergency
+70,Male,"Fatigue, Shortness of breath, Fever",108/78,106,100.7,82,Seafood,Diabetes,Admitted in Emergency
+40,Other,"Shortness of breath, Nausea",145/108,148,103.3,95,"Seafood, Penicillin","None, Heart Disease",No Admission at All
+69,Male,Chest pain,166/72,80,102.0,100,"None, Seafood","Asthma, Kidney Disease",No Admission at All
+62,Female,"Fatigue, Fever, Chest pain",159/76,82,95.5,88,Seafood,"Hypertension, Asthma",No Admission at All
+89,Female,"Nausea, Headache, Chest pain",129/113,94,98.8,97,Penicillin,"Diabetes, Hypertension",No Admission at All
+68,Female,"Fatigue, Cough",166/120,86,104.7,92,"Dust, None",Kidney Disease,No Admission at All
+11,Male,"Nausea, Fever",166/63,68,104.0,87,Peanuts,"None, Hypertension",No Admission at All
+40,Female,Chest pain,145/81,127,104.6,84,"Penicillin, Peanuts",Cancer,Admitted in Emergency
+61,Male,"Shortness of breath, Cough, Chest pain",149/107,70,98.6,100,Dust,"Hypertension, Asthma",No Admission in Emergency
+10,Male,Chest pain,168/104,99,97.2,81,"Dust, Peanuts","None, Asthma",No Admission at All
+52,Other,Fatigue,175/104,96,98.4,92,"None, Seafood","Kidney Disease, Asthma, Cancer",No Admission in Emergency
+2,Female,Headache,171/90,145,101.8,86,"Dust, Peanuts","Hypertension, None",No Admission in Emergency
+41,Other,Fatigue,98/115,101,105.0,89,Pollen,"None, Kidney Disease",No Admission in Emergency
+15,Other,"Fatigue, Cough, Shortness of breath",123/63,69,101.9,99,"Seafood, Peanuts","Hypertension, Asthma, Cancer",No Admission at All
+80,Other,"Shortness of breath, Fatigue, Cough",146/75,60,100.3,89,"Dust, None",None,No Admission in Emergency
+87,Male,Fever,99/114,122,103.6,96,"None, Dust","None, Heart Disease, Kidney Disease",Admitted in Emergency
+38,Female,"Shortness of breath, Headache, Fatigue",90/74,53,97.1,87,None,"None, Asthma, Cancer",No Admission at All
+93,Other,Nausea,111/77,58,100.5,99,"Pollen, None",Heart Disease,No Admission at All
+5,Other,Chest pain,160/101,82,99.1,93,"Dust, Seafood","Asthma, Diabetes, None",No Admission in Emergency
+76,Female,"Shortness of breath, Fever",179/113,125,102.9,89,"Peanuts, Pollen","Hypertension, Heart Disease, Cancer",No Admission in Emergency
+40,Female,"Chest pain, Fatigue",152/60,144,100.0,97,"Pollen, Penicillin",Hypertension,Admitted in Emergency
+29,Other,"Chest pain, Headache",135/96,74,97.6,96,Penicillin,"Diabetes, Asthma",No Admission in Emergency
+45,Female,"Cough, Fever, Fatigue",150/67,56,101.4,89,Peanuts,Cancer,No Admission in Emergency
+86,Other,"Fever, Nausea, Cough",150/79,51,96.5,97,"Pollen, Dust","Heart Disease, Hypertension, None",Admitted in Emergency
+21,Male,"Nausea, Shortness of breath, Fever",171/115,95,102.8,95,Seafood,"Cancer, Asthma, Heart Disease",Admitted in Emergency
+24,Other,"Cough, Nausea",168/114,96,97.3,97,Peanuts,"Asthma, Diabetes, Hypertension",No Admission in Emergency
+18,Male,"Shortness of breath, Headache, Nausea",113/117,66,99.9,83,"None, Seafood","Kidney Disease, Cancer",No Admission at All
+1,Other,Nausea,180/71,80,96.0,92,"Pollen, Peanuts","Diabetes, Kidney Disease, Asthma",No Admission in Emergency
+57,Male,"Chest pain, Shortness of breath, Fatigue",158/94,95,101.4,97,"Penicillin, None",None,No Admission at All
+8,Male,Cough,150/108,62,102.8,93,None,Hypertension,Admitted in Emergency
+67,Other,"Headache, Fatigue",146/110,127,101.8,91,Pollen,"Asthma, None",No Admission at All
+43,Male,"Nausea, Chest pain",145/67,124,101.2,94,"None, Peanuts",None,No Admission in Emergency
+19,Male,"Cough, Headache",130/63,150,101.7,88,"Seafood, Penicillin","Diabetes, Cancer",No Admission in Emergency
+77,Male,Nausea,169/82,120,97.2,90,Peanuts,"None, Hypertension, Asthma",No Admission at All
+30,Female,"Fever, Shortness of breath",150/87,88,97.0,83,Pollen,"Cancer, Hypertension, None",No Admission at All
+92,Other,"Headache, Fatigue, Chest pain",161/106,91,100.9,96,"Penicillin, Dust","Hypertension, None, Heart Disease",No Admission at All
+59,Female,"Cough, Headache",121/72,124,104.2,95,"Peanuts, Pollen","None, Kidney Disease, Cancer",Admitted in Emergency
+79,Other,"Chest pain, Headache",93/114,114,101.0,81,"Seafood, Penicillin","Kidney Disease, Heart Disease, Diabetes",No Admission at All
+61,Male,Headache,180/87,102,95.6,100,"Penicillin, Pollen","Heart Disease, Kidney Disease",No Admission in Emergency
+74,Other,"Chest pain, Headache, Cough",126/102,115,98.9,81,"None, Peanuts","Heart Disease, Diabetes",No Admission in Emergency
+41,Other,"Shortness of breath, Headache, Fever",164/77,91,98.1,84,"Peanuts, Dust",Hypertension,No Admission in Emergency
+67,Male,Cough,122/96,50,99.6,100,Pollen,Diabetes,No Admission in Emergency
+89,Female,"Nausea, Fever",143/91,88,102.5,85,Penicillin,Kidney Disease,No Admission in Emergency
+43,Male,"Cough, Fever, Shortness of breath",158/117,82,103.7,97,Seafood,None,No Admission in Emergency
+62,Other,Nausea,146/68,136,100.6,85,Peanuts,"Kidney Disease, Hypertension, Cancer",No Admission in Emergency
+5,Female,Nausea,109/108,145,104.2,95,"Dust, Peanuts",Heart Disease,No Admission at All
+38,Female,"Chest pain, Headache",119/69,150,101.3,97,Penicillin,"Cancer, Asthma, Hypertension",No Admission at All
+2,Other,"Nausea, Chest pain",139/60,122,101.0,87,None,Hypertension,No Admission at All
+91,Other,"Nausea, Cough, Chest pain",151/90,130,100.0,86,"Pollen, None","Kidney Disease, Diabetes, Hypertension",Admitted in Emergency
+35,Other,"Headache, Chest pain",142/71,126,95.3,96,"Dust, None","Cancer, Asthma, Diabetes",No Admission in Emergency
+11,Male,Nausea,115/89,109,104.5,98,"None, Pollen","Asthma, Diabetes",No Admission at All
+51,Other,"Shortness of breath, Chest pain, Headache",174/62,147,95.6,98,Peanuts,"Hypertension, Cancer",Admitted in Emergency
+20,Male,Cough,140/94,110,103.7,89,"Peanuts, Pollen","Kidney Disease, Hypertension",No Admission in Emergency
+12,Male,Nausea,131/82,104,98.6,90,Dust,"Diabetes, Heart Disease",No Admission at All
+89,Female,"Headache, Nausea, Fatigue",106/112,108,95.3,82,Pollen,Heart Disease,No Admission at All
+27,Female,Fever,130/90,127,98.5,89,"None, Peanuts","Heart Disease, Asthma",Admitted in Emergency
+11,Other,Fatigue,175/73,147,100.0,90,Peanuts,"Heart Disease, Kidney Disease",No Admission in Emergency
+61,Male,"Fever, Shortness of breath",134/69,128,103.9,87,Penicillin,"Asthma, Kidney Disease",No Admission at All
+62,Female,"Shortness of breath, Fatigue, Cough",114/94,82,96.9,86,"Dust, Seafood","Asthma, Diabetes",No Admission in Emergency
+45,Female,Shortness of breath,103/116,108,98.9,98,Peanuts,Diabetes,No Admission in Emergency
+44,Female,"Shortness of breath, Headache, Chest pain",125/78,70,101.7,93,"Seafood, Peanuts",Cancer,No Admission in Emergency
+67,Male,"Cough, Chest pain",141/68,65,102.9,90,Pollen,Heart Disease,No Admission at All
+29,Female,"Fever, Headache",166/93,88,99.6,89,"Pollen, Peanuts",Heart Disease,Admitted in Emergency
+22,Female,"Nausea, Shortness of breath, Headache",150/70,145,100.7,98,Seafood,"Diabetes, None, Cancer",No Admission in Emergency
+53,Female,"Headache, Nausea, Fatigue",107/75,85,100.6,91,"Penicillin, Seafood",Asthma,No Admission at All
+30,Other,"Fatigue, Nausea",108/101,123,103.2,93,Pollen,"Heart Disease, Diabetes",Admitted in Emergency
+68,Female,Fever,146/81,134,98.1,93,Peanuts,Asthma,No Admission in Emergency
+51,Male,"Shortness of breath, Cough",164/71,102,103.3,97,Pollen,Heart Disease,No Admission at All
+23,Other,Chest pain,121/74,132,97.8,90,"Dust, Seafood",None,No Admission in Emergency
+43,Other,"Fever, Headache",152/79,99,101.0,81,"Seafood, Dust",Kidney Disease,No Admission in Emergency
+19,Other,Headache,112/84,68,97.5,80,Seafood,Diabetes,No Admission in Emergency
+68,Female,Fever,145/108,76,102.6,83,Seafood,"None, Hypertension, Cancer",No Admission at All
+93,Male,"Fever, Fatigue",94/65,136,100.5,90,"Peanuts, Penicillin","Kidney Disease, Diabetes",No Admission in Emergency
+32,Other,Chest pain,176/86,135,96.5,88,None,"Hypertension, Kidney Disease",No Admission in Emergency
+33,Female,"Nausea, Fever, Chest pain",130/64,82,96.8,80,None,"Cancer, None",No Admission at All
+15,Male,"Chest pain, Nausea",94/61,135,97.9,100,"Peanuts, Dust","Diabetes, None",No Admission at All
+80,Male,Cough,160/63,113,100.6,88,Penicillin,"Heart Disease, Cancer, Hypertension",No Admission in Emergency
+64,Female,"Shortness of breath, Cough",97/113,136,104.0,95,Penicillin,"Hypertension, Kidney Disease",No Admission in Emergency
+15,Female,Cough,108/97,61,98.4,96,"Seafood, Dust","None, Hypertension, Cancer",Admitted in Emergency
+10,Female,Headache,177/78,77,95.2,81,Seafood,"Hypertension, Asthma",No Admission in Emergency
+20,Male,"Headache, Cough, Fatigue",150/112,116,102.3,85,"Pollen, Dust","Hypertension, None",No Admission at All
+40,Male,"Headache, Chest pain",91/101,114,98.6,89,Seafood,"Hypertension, Cancer",No Admission at All
+49,Male,Shortness of breath,177/110,68,96.8,96,Seafood,Hypertension,No Admission in Emergency
+34,Female,"Shortness of breath, Cough",121/111,74,100.0,86,None,"Asthma, Cancer",No Admission at All
+83,Male,"Shortness of breath, Fatigue",179/108,148,102.4,83,"None, Pollen","Asthma, Kidney Disease, Cancer",No Admission at All
+5,Female,Fever,160/79,53,96.6,100,Penicillin,Kidney Disease,Admitted in Emergency
+67,Female,"Fever, Fatigue",153/107,73,98.5,92,Pollen,"None, Hypertension, Asthma",No Admission at All
+11,Male,"Headache, Shortness of breath, Fatigue",109/102,106,101.1,87,"Penicillin, Dust","Hypertension, Diabetes",No Admission in Emergency
+21,Female,"Fever, Fatigue",102/112,82,100.8,89,Penicillin,"Kidney Disease, None, Asthma",No Admission at All
+77,Other,"Fever, Headache",102/118,71,98.8,87,Seafood,"Diabetes, Kidney Disease, Hypertension",No Admission at All
+24,Female,"Headache, Shortness of breath",164/66,135,99.3,81,"Pollen, Peanuts",Diabetes,No Admission at All
+60,Male,"Fatigue, Shortness of breath",151/82,83,102.8,81,"Peanuts, None",Kidney Disease,Admitted in Emergency
+24,Male,"Chest pain, Fever, Shortness of breath",121/79,139,101.3,80,"Seafood, None",Hypertension,No Admission in Emergency
+46,Female,"Cough, Chest pain, Headache",180/73,136,102.6,82,Penicillin,Asthma,No Admission in Emergency
+97,Other,Shortness of breath,91/108,142,102.2,90,"Peanuts, Pollen",Cancer,No Admission in Emergency
+83,Other,"Shortness of breath, Headache",166/112,61,96.4,92,"Penicillin, Dust","Diabetes, Heart Disease, None",Admitted in Emergency
+23,Female,"Headache, Shortness of breath, Chest pain",164/112,115,96.6,98,None,None,No Admission at All
+92,Female,Fever,179/111,150,95.3,88,"Pollen, Penicillin","Kidney Disease, Cancer, Hypertension",No Admission at All
+73,Other,Cough,174/98,85,95.3,83,"Dust, Peanuts",Hypertension,No Admission in Emergency
+60,Female,"Fever, Cough",97/79,123,100.3,100,"Seafood, Peanuts",Diabetes,Admitted in Emergency
+21,Other,"Shortness of breath, Cough",111/82,148,104.1,97,Penicillin,"Cancer, Kidney Disease",No Admission in Emergency
+80,Female,"Shortness of breath, Chest pain, Fatigue",101/68,77,100.2,84,"None, Seafood","Cancer, Heart Disease",Admitted in Emergency
+43,Male,"Fever, Cough, Nausea",164/118,122,99.4,86,Dust,Cancer,No Admission in Emergency
+99,Other,"Fatigue, Fever",168/96,117,104.6,91,Seafood,"Asthma, Cancer, None",No Admission in Emergency
+56,Other,Chest pain,127/115,102,96.0,81,"Dust, Seafood","None, Hypertension",No Admission in Emergency
+57,Male,"Cough, Shortness of breath",168/112,96,96.1,82,"Dust, Penicillin",Hypertension,No Admission in Emergency
+24,Other,Headache,164/82,68,96.1,89,Pollen,Asthma,No Admission at All
+34,Female,Nausea,179/73,120,104.2,93,Seafood,"Asthma, Kidney Disease, Cancer",No Admission in Emergency
+2,Male,Headache,175/67,61,104.1,88,"Seafood, None","Diabetes, Asthma, Cancer",No Admission at All
+3,Female,"Chest pain, Shortness of breath",95/101,110,105.0,90,None,Kidney Disease,No Admission at All
+4,Female,Headache,151/78,124,104.4,98,"Penicillin, Seafood","Asthma, Kidney Disease, Hypertension",Admitted in Emergency
+17,Male,"Chest pain, Shortness of breath, Nausea",172/108,121,96.5,86,Dust,Cancer,Admitted in Emergency
+47,Other,Fatigue,156/73,87,101.1,82,Penicillin,"None, Diabetes",No Admission in Emergency
+92,Female,"Fever, Chest pain, Cough",150/112,117,97.8,88,"Pollen, Peanuts","Asthma, Kidney Disease",Admitted in Emergency
+90,Male,"Fatigue, Shortness of breath",171/109,137,100.3,98,"Dust, None","Heart Disease, Cancer",Admitted in Emergency
+68,Female,"Headache, Chest pain, Fatigue",110/85,133,96.6,90,Seafood,Hypertension,Admitted in Emergency
+30,Female,Fatigue,131/96,110,95.9,93,Seafood,"Cancer, Asthma",Admitted in Emergency
+61,Female,"Chest pain, Nausea",160/84,108,104.0,95,"None, Pollen",Heart Disease,No Admission at All
+61,Other,"Fever, Shortness of breath, Nausea",105/98,96,99.7,96,"Seafood, Penicillin","Heart Disease, Diabetes, Asthma",Admitted in Emergency
+32,Male,"Chest pain, Nausea",122/91,58,96.9,84,None,"Hypertension, Kidney Disease",No Admission in Emergency
+74,Male,"Chest pain, Shortness of breath, Fatigue",128/96,59,101.8,93,"Pollen, Dust","Asthma, Kidney Disease, Diabetes",Admitted in Emergency
+74,Other,"Chest pain, Shortness of breath",154/84,133,103.5,80,"Seafood, Dust","Asthma, None",No Admission in Emergency
+92,Female,"Headache, Nausea",115/71,131,104.3,93,"Peanuts, Dust","Heart Disease, Kidney Disease, Hypertension",Admitted in Emergency
+9,Male,"Shortness of breath, Fever, Headache",158/65,54,95.6,100,Pollen,Asthma,No Admission at All
+4,Female,Fever,169/104,52,97.0,84,"Seafood, None","Hypertension, None",No Admission in Emergency
+38,Male,"Shortness of breath, Fatigue",127/64,52,102.2,87,"Seafood, None","Hypertension, Kidney Disease, Diabetes",No Admission in Emergency
+57,Female,Shortness of breath,113/119,104,96.8,93,"Pollen, Seafood",Kidney Disease,No Admission at All
+61,Male,"Headache, Cough",158/104,76,96.5,89,Seafood,"Asthma, Cancer, Heart Disease",Admitted in Emergency
+31,Male,Shortness of breath,137/97,84,97.0,97,"None, Dust","Diabetes, Kidney Disease, Asthma",Admitted in Emergency
+76,Female,"Nausea, Cough, Shortness of breath",92/99,68,103.9,100,"Pollen, Peanuts","Diabetes, Kidney Disease, Heart Disease",No Admission in Emergency
+83,Male,"Cough, Chest pain",111/114,89,103.1,91,Seafood,Kidney Disease,No Admission in Emergency
+20,Male,"Headache, Shortness of breath",102/114,121,101.7,99,"Dust, Pollen","Kidney Disease, None",No Admission at All
+98,Male,Chest pain,108/78,85,97.9,95,"Pollen, Penicillin","Heart Disease, None, Diabetes",Admitted in Emergency
+67,Other,"Fatigue, Cough",95/63,129,100.3,89,"Penicillin, None",None,No Admission in Emergency
+35,Female,"Cough, Chest pain",174/88,147,99.1,97,Pollen,"Kidney Disease, Hypertension",No Admission in Emergency
+29,Male,"Shortness of breath, Cough",133/64,76,104.5,94,"Pollen, None","Heart Disease, Hypertension, Cancer",No Admission at All
+10,Female,"Chest pain, Nausea, Headache",165/82,122,96.9,83,Pollen,"Diabetes, None",No Admission in Emergency
+12,Other,"Fever, Headache",98/63,139,99.3,91,"Dust, Seafood","None, Cancer, Hypertension",No Admission in Emergency
+96,Male,"Cough, Fever, Chest pain",157/68,63,96.2,98,Peanuts,"None, Asthma, Diabetes",No Admission in Emergency
+97,Male,Fever,114/117,126,102.4,80,Peanuts,"Asthma, Hypertension, Cancer",No Admission in Emergency
+24,Male,"Chest pain, Nausea, Fatigue",118/95,67,103.2,96,Seafood,"None, Hypertension, Cancer",Admitted in Emergency
+98,Female,"Fever, Cough",142/102,108,99.2,99,Seafood,None,Admitted in Emergency
+75,Other,Cough,93/105,137,99.3,96,Seafood,"Asthma, Heart Disease",Admitted in Emergency
+33,Female,"Nausea, Chest pain, Fatigue",143/72,137,98.7,93,Peanuts,Diabetes,No Admission in Emergency
+82,Female,"Chest pain, Fatigue, Shortness of breath",96/101,84,104.4,80,"None, Dust",Kidney Disease,Admitted in Emergency
+6,Female,"Cough, Shortness of breath, Fever",150/77,141,95.1,94,"Seafood, Penicillin",Kidney Disease,Admitted in Emergency
+63,Other,"Fatigue, Chest pain",126/104,134,97.0,89,Seafood,None,Admitted in Emergency
+65,Female,"Headache, Nausea",118/64,63,100.1,85,"Peanuts, Dust","Cancer, Heart Disease, Kidney Disease",No Admission at All
+64,Female,Fatigue,135/73,68,104.8,82,"Dust, None","Heart Disease, Hypertension",No Admission at All
+88,Female,"Shortness of breath, Headache, Fever",162/117,98,100.0,82,Pollen,"Cancer, Heart Disease",Admitted in Emergency
+21,Female,"Fatigue, Nausea, Fever",113/74,75,101.6,83,None,"Diabetes, Hypertension",No Admission in Emergency
+46,Male,Nausea,92/84,92,97.1,88,"Pollen, Peanuts",None,No Admission at All
+75,Other,Nausea,141/77,114,104.9,98,Peanuts,Cancer,Admitted in Emergency
+77,Female,"Cough, Fatigue",127/103,114,104.6,96,Peanuts,"None, Kidney Disease, Cancer",Admitted in Emergency
+29,Other,Fatigue,129/102,75,97.6,100,Peanuts,Cancer,No Admission at All
+28,Other,"Nausea, Headache, Shortness of breath",158/77,66,95.8,96,Pollen,"Cancer, Heart Disease",Admitted in Emergency
+21,Female,Headache,168/112,149,100.0,93,"Penicillin, None","Hypertension, Diabetes, Heart Disease",No Admission in Emergency
+34,Other,"Cough, Chest pain, Nausea",131/90,87,98.7,98,"Peanuts, Pollen",Diabetes,No Admission in Emergency
+18,Male,"Chest pain, Headache",110/80,56,100.2,87,"Penicillin, Seafood","None, Kidney Disease",No Admission in Emergency
+98,Other,"Cough, Headache, Fever",95/116,103,99.9,92,"Seafood, Pollen",Asthma,No Admission at All
+84,Female,"Nausea, Fatigue",128/110,74,97.5,93,Dust,"Asthma, None, Heart Disease",No Admission in Emergency
+19,Female,Chest pain,96/62,91,101.7,96,Peanuts,"Heart Disease, None",Admitted in Emergency
+23,Other,"Cough, Fatigue",160/80,132,96.6,96,Penicillin,"Heart Disease, Hypertension",No Admission in Emergency
+29,Female,"Fever, Headache",101/71,129,97.4,83,"Dust, None","Diabetes, Heart Disease, Asthma",No Admission in Emergency
+15,Other,Fever,97/106,57,104.6,81,"Penicillin, Peanuts",Hypertension,No Admission at All
+3,Other,Headache,153/106,75,96.8,100,Dust,"Asthma, Hypertension",No Admission in Emergency
+55,Other,"Headache, Nausea, Fatigue",152/75,145,95.6,84,"Penicillin, None","Heart Disease, Kidney Disease, Asthma",No Admission in Emergency
+87,Other,Chest pain,101/79,123,97.1,95,Peanuts,"Diabetes, None, Hypertension",No Admission at All
+93,Male,"Cough, Nausea, Headache",109/62,103,97.4,87,Peanuts,"Cancer, Asthma",Admitted in Emergency
+79,Female,"Fever, Nausea",124/116,61,98.8,100,Pollen,"None, Hypertension, Diabetes",No Admission in Emergency
+6,Other,"Nausea, Cough, Chest pain",154/106,136,104.2,88,"Penicillin, Peanuts",Heart Disease,Admitted in Emergency
+77,Other,"Cough, Nausea, Chest pain",105/113,55,101.0,89,Seafood,"Asthma, Diabetes, Cancer",Admitted in Emergency
+77,Female,Headache,125/109,85,103.0,82,"Seafood, Pollen",Kidney Disease,Admitted in Emergency
+91,Other,"Nausea, Shortness of breath, Fatigue",102/107,147,104.3,82,Peanuts,Cancer,Admitted in Emergency
+53,Male,"Chest pain, Shortness of breath, Fever",108/82,80,99.0,84,Dust,None,No Admission at All
+21,Female,Nausea,178/92,85,95.3,98,"Penicillin, Dust","Asthma, Diabetes",No Admission in Emergency
+9,Male,Chest pain,103/90,92,103.4,95,None,"Asthma, Cancer, Hypertension",No Admission in Emergency
+14,Female,"Shortness of breath, Cough, Chest pain",148/70,83,96.7,83,"Penicillin, Peanuts","Hypertension, Heart Disease, None",No Admission at All
+91,Female,Shortness of breath,128/83,132,95.7,92,"Peanuts, Penicillin","Hypertension, Asthma, Heart Disease",No Admission at All
+31,Other,"Fever, Headache",160/114,55,95.1,89,Seafood,"Hypertension, Heart Disease, Diabetes",No Admission at All
+1,Male,Chest pain,174/98,95,97.9,97,"Pollen, Penicillin","Heart Disease, None, Asthma",No Admission at All
+85,Other,"Cough, Nausea, Chest pain",120/102,133,102.0,89,"Penicillin, Pollen",None,No Admission at All
+72,Other,"Nausea, Cough, Fever",104/95,88,99.7,98,Penicillin,"Asthma, Cancer",No Admission at All
+53,Male,"Fatigue, Fever, Nausea",121/73,99,97.7,80,Pollen,Diabetes,No Admission at All
+42,Other,"Shortness of breath, Chest pain",135/112,149,97.6,95,"None, Penicillin","Cancer, Diabetes, Heart Disease",Admitted in Emergency
+51,Male,Shortness of breath,162/79,106,102.7,80,"Peanuts, None","Asthma, Heart Disease, Diabetes",No Admission in Emergency
+34,Female,Chest pain,135/79,76,100.1,80,"None, Peanuts","None, Heart Disease, Asthma",No Admission in Emergency
+83,Other,Cough,140/78,133,101.1,98,"Peanuts, Pollen","Heart Disease, Hypertension, Asthma",Admitted in Emergency
+22,Other,Fatigue,157/70,70,97.0,92,"Pollen, Peanuts","Diabetes, Kidney Disease",No Admission in Emergency
+57,Other,Headache,93/104,63,104.6,90,"Pollen, Seafood","Heart Disease, None, Diabetes",No Admission in Emergency
+98,Other,"Fever, Headache, Fatigue",150/80,101,95.3,95,Dust,"Kidney Disease, None",No Admission in Emergency
+79,Female,"Headache, Cough, Chest pain",139/74,141,103.4,97,Penicillin,"Cancer, Hypertension",No Admission in Emergency
+17,Other,Headache,161/62,133,95.9,97,"Penicillin, Seafood","Kidney Disease, Hypertension, Cancer",No Admission in Emergency
+61,Other,Fatigue,153/84,104,100.2,87,Peanuts,"Diabetes, Kidney Disease, Cancer",No Admission in Emergency
+96,Other,"Chest pain, Headache, Fever",126/73,107,101.4,94,Pollen,"Cancer, Diabetes",No Admission in Emergency
+69,Female,"Shortness of breath, Fever, Fatigue",113/116,129,101.9,93,Peanuts,"Diabetes, Heart Disease",Admitted in Emergency
+67,Other,"Nausea, Fever, Fatigue",175/96,88,105.0,96,Pollen,"None, Kidney Disease, Asthma",No Admission at All
+78,Male,"Fatigue, Chest pain",99/106,116,98.9,99,"Pollen, Penicillin",Cancer,No Admission at All
+67,Female,"Shortness of breath, Fatigue",118/117,113,99.4,93,"Seafood, Peanuts","Hypertension, Asthma",No Admission in Emergency
+79,Female,Fever,169/75,116,99.2,96,"None, Seafood",Diabetes,No Admission in Emergency
+50,Other,Cough,122/63,148,103.0,88,None,"Hypertension, Kidney Disease",Admitted in Emergency
+4,Male,Fever,141/70,91,97.9,87,None,"Diabetes, Kidney Disease",No Admission at All
+9,Male,"Shortness of breath, Cough, Nausea",102/80,69,104.8,88,"Seafood, None","None, Asthma",No Admission in Emergency
+89,Female,Fever,122/61,52,101.5,95,"Seafood, Pollen",None,No Admission in Emergency
+71,Female,"Fever, Fatigue, Nausea",110/70,66,103.9,93,Seafood,"Heart Disease, Cancer, Diabetes",No Admission at All
+52,Other,"Headache, Fever",170/90,149,99.2,97,"None, Peanuts",Asthma,No Admission in Emergency
+21,Other,"Shortness of breath, Fever",169/77,53,104.3,88,"Dust, None","None, Diabetes",No Admission in Emergency
+17,Female,Shortness of breath,104/116,82,104.8,81,None,"Diabetes, None",Admitted in Emergency
+86,Female,"Chest pain, Fever",168/72,72,98.9,94,None,"Diabetes, Asthma",No Admission in Emergency
+22,Female,Chest pain,107/62,85,103.2,80,"Penicillin, Seafood",Cancer,No Admission in Emergency
+46,Other,Fever,165/78,113,104.0,91,"Penicillin, Peanuts",Heart Disease,No Admission at All
+95,Male,"Nausea, Fever, Headache",140/109,73,104.6,89,"Seafood, Dust","Heart Disease, Cancer",Admitted in Emergency
+69,Female,"Headache, Chest pain",107/65,70,104.8,88,Pollen,None,Admitted in Emergency
+37,Female,Cough,133/75,102,101.2,95,"Pollen, None",Asthma,No Admission in Emergency
+31,Other,"Shortness of breath, Fever, Fatigue",160/73,106,105.0,83,Pollen,"Heart Disease, Hypertension",Admitted in Emergency
+47,Female,"Fatigue, Chest pain",162/114,97,100.6,84,"None, Seafood",None,No Admission in Emergency
+65,Female,"Shortness of breath, Chest pain, Cough",143/116,100,97.5,99,None,"Diabetes, Hypertension, Asthma",No Admission at All
+50,Other,"Headache, Fever, Fatigue",92/109,55,102.1,80,"Peanuts, None",Cancer,No Admission at All
+71,Female,Nausea,110/69,52,102.3,91,"Pollen, Seafood","Heart Disease, Kidney Disease, Hypertension",No Admission at All
+12,Female,Fever,163/106,98,100.9,95,Peanuts,"Asthma, Hypertension",Admitted in Emergency
+69,Other,Cough,167/115,150,104.5,87,"Seafood, Pollen",None,No Admission at All
+40,Other,Fever,171/99,121,101.4,94,Penicillin,Heart Disease,No Admission in Emergency
+72,Male,"Headache, Cough",174/73,72,100.8,93,Peanuts,"Cancer, Heart Disease, Hypertension",Admitted in Emergency
+35,Male,"Fatigue, Chest pain",153/81,110,104.1,99,"None, Penicillin",None,No Admission at All
+50,Male,"Fatigue, Cough",135/80,53,96.2,95,"None, Peanuts","Cancer, Hypertension",No Admission at All
+34,Male,"Cough, Fever",108/118,105,102.5,84,None,"Cancer, Asthma, Diabetes",Admitted in Emergency
+18,Female,Shortness of breath,156/71,108,98.9,89,Penicillin,None,Admitted in Emergency
+59,Other,"Chest pain, Headache",132/64,144,98.6,92,"Pollen, Seafood","Heart Disease, Asthma",No Admission in Emergency
+22,Male,"Fatigue, Cough, Fever",157/69,110,104.2,91,"Seafood, Peanuts",Cancer,No Admission at All
+57,Male,"Shortness of breath, Fatigue",146/85,112,100.8,99,"Dust, Peanuts","Kidney Disease, None",Admitted in Emergency
+19,Female,"Fever, Fatigue, Nausea",114/102,88,98.0,95,Dust,"Kidney Disease, Asthma, Hypertension",No Admission in Emergency
+3,Other,Shortness of breath,92/93,91,101.0,96,Penicillin,None,No Admission at All
+55,Male,"Headache, Fever, Shortness of breath",144/86,67,99.1,81,Dust,"Kidney Disease, Asthma, Heart Disease",No Admission at All
+13,Male,Fatigue,126/99,58,103.3,96,None,"Cancer, Kidney Disease",Admitted in Emergency
+46,Other,"Cough, Shortness of breath",145/94,54,99.0,98,Pollen,"Asthma, Cancer, Diabetes",Admitted in Emergency
+40,Other,"Chest pain, Fatigue, Fever",130/75,74,103.3,87,Dust,"Cancer, Diabetes",No Admission at All
+74,Other,"Cough, Shortness of breath, Headache",174/100,131,101.7,87,"Penicillin, Seafood","None, Heart Disease",No Admission in Emergency
+2,Other,"Fever, Headache, Shortness of breath",92/76,131,104.6,88,Seafood,"Heart Disease, Kidney Disease",No Admission in Emergency
+77,Male,Nausea,109/62,97,97.2,100,"Penicillin, Peanuts","Cancer, Asthma, Hypertension",No Admission at All
+81,Male,Shortness of breath,169/92,77,102.2,93,Peanuts,"Cancer, Heart Disease, None",No Admission at All
+87,Male,"Fever, Shortness of breath",161/120,116,99.9,92,None,Kidney Disease,No Admission at All
+53,Male,"Nausea, Headache, Fatigue",157/94,142,99.4,90,Dust,"Asthma, Diabetes",No Admission at All
+18,Male,"Chest pain, Shortness of breath, Cough",106/66,91,95.4,82,"Penicillin, Dust","Cancer, Kidney Disease, Heart Disease",Admitted in Emergency
+87,Other,"Fatigue, Fever, Headache",110/66,60,98.7,88,"Dust, Peanuts",Asthma,No Admission in Emergency
+94,Female,"Cough, Nausea, Fatigue",171/86,147,103.7,89,None,Asthma,No Admission in Emergency
+1,Other,"Fatigue, Chest pain, Headache",174/99,65,101.8,99,Penicillin,Hypertension,Admitted in Emergency
+22,Other,"Fever, Nausea",94/94,106,99.2,84,"None, Penicillin",Cancer,No Admission at All
+20,Other,"Chest pain, Headache",145/88,141,102.8,81,Pollen,Diabetes,No Admission in Emergency
+67,Other,"Headache, Chest pain, Shortness of breath",180/72,102,99.4,99,Seafood,"None, Hypertension",No Admission in Emergency
+56,Male,"Nausea, Chest pain, Cough",140/115,58,103.5,89,"Dust, Penicillin","Heart Disease, Hypertension, Asthma",No Admission in Emergency
+72,Male,Chest pain,137/91,77,99.6,82,Peanuts,"Cancer, Asthma, Hypertension",Admitted in Emergency
+87,Male,"Nausea, Fever",178/88,50,99.0,83,Dust,Heart Disease,No Admission in Emergency
+50,Other,"Fatigue, Chest pain",172/116,108,102.3,86,Pollen,"Asthma, None, Kidney Disease",Admitted in Emergency
+56,Female,"Shortness of breath, Chest pain, Fatigue",143/97,134,104.8,95,Penicillin,"Cancer, Heart Disease, Kidney Disease",No Admission in Emergency
+37,Other,"Fever, Chest pain, Shortness of breath",131/119,87,97.9,100,"Pollen, Penicillin",Hypertension,Admitted in Emergency
+80,Female,"Chest pain, Shortness of breath",169/116,52,104.2,93,Pollen,"Hypertension, Cancer",Admitted in Emergency
+8,Male,Cough,133/111,54,101.5,99,"Penicillin, None","Hypertension, Diabetes, Asthma",No Admission at All
+81,Other,"Fever, Fatigue, Nausea",152/95,133,102.2,94,Dust,"Kidney Disease, None",Admitted in Emergency
+28,Female,"Headache, Nausea",125/66,125,99.7,85,"Pollen, Peanuts","Diabetes, Cancer, Hypertension",No Admission in Emergency
+71,Other,"Shortness of breath, Headache, Fatigue",98/99,141,104.8,91,"Pollen, Penicillin",Hypertension,No Admission at All
+76,Other,"Chest pain, Cough, Headache",118/108,125,103.8,82,Dust,Hypertension,Admitted in Emergency
+13,Other,Chest pain,150/111,89,100.0,97,"Penicillin, Seafood","None, Heart Disease",No Admission in Emergency
+42,Female,Chest pain,160/73,137,97.9,95,Peanuts,"Cancer, Asthma",Admitted in Emergency
+30,Other,"Fatigue, Nausea, Headache",110/88,80,96.8,88,Penicillin,"Heart Disease, Cancer",No Admission in Emergency
+22,Female,"Chest pain, Fatigue, Shortness of breath",174/72,134,98.9,85,"Seafood, Penicillin",Asthma,No Admission in Emergency
+80,Female,Shortness of breath,171/76,94,104.8,82,"Seafood, None","Heart Disease, Kidney Disease, Asthma",Admitted in Emergency
+92,Female,"Nausea, Fever, Cough",124/79,108,98.9,94,"Dust, Peanuts",Diabetes,No Admission in Emergency
+82,Female,"Shortness of breath, Fatigue, Chest pain",121/110,118,102.3,81,"Pollen, Penicillin","Diabetes, Hypertension, Asthma",No Admission at All
+83,Male,"Nausea, Fever",123/88,78,101.1,93,Peanuts,"Cancer, Kidney Disease",Admitted in Emergency
+78,Male,"Cough, Chest pain, Fever",159/103,61,101.4,89,Dust,"Diabetes, Hypertension",No Admission in Emergency
+72,Other,"Fever, Nausea, Cough",108/109,90,99.5,99,Dust,"Kidney Disease, Asthma",Admitted in Emergency
+53,Female,"Fever, Shortness of breath, Chest pain",163/90,99,98.7,85,None,Hypertension,Admitted in Emergency
+85,Female,"Fatigue, Headache",175/89,116,102.8,93,"Seafood, None","Asthma, Cancer, Diabetes",No Admission at All
+1,Male,"Chest pain, Headache",135/85,120,97.5,94,Penicillin,"Asthma, Heart Disease, None",No Admission at All
+84,Male,Cough,161/62,88,96.7,91,"Seafood, Penicillin","Heart Disease, Diabetes, Asthma",Admitted in Emergency
+43,Female,Nausea,168/103,91,101.6,83,None,Asthma,No Admission at All
+29,Other,"Headache, Chest pain, Fatigue",115/105,73,102.3,80,"Seafood, Dust","None, Hypertension",Admitted in Emergency
+20,Female,"Nausea, Fatigue",159/104,134,99.1,87,"Peanuts, Dust",Heart Disease,No Admission in Emergency
+11,Male,"Fatigue, Headache, Nausea",179/99,126,100.2,89,"Peanuts, None",Hypertension,Admitted in Emergency
+98,Female,"Cough, Fever",179/61,88,97.1,94,Dust,"Heart Disease, Asthma",No Admission in Emergency
+6,Female,"Headache, Nausea",109/68,82,97.0,94,Seafood,"None, Kidney Disease, Diabetes",Admitted in Emergency
+72,Other,"Fever, Chest pain, Cough",105/61,98,98.0,82,"Dust, Pollen","Kidney Disease, Heart Disease",No Admission in Emergency
+66,Male,"Chest pain, Headache, Cough",129/87,78,101.1,82,"Seafood, Dust",Hypertension,Admitted in Emergency
+64,Male,"Shortness of breath, Fatigue",101/85,134,98.5,96,"Seafood, None","Heart Disease, Kidney Disease",No Admission at All
+37,Male,"Nausea, Cough",176/93,95,101.1,80,"Dust, Seafood",Kidney Disease,Admitted in Emergency
+5,Other,Cough,118/70,80,98.3,80,"Dust, None","Asthma, Kidney Disease",Admitted in Emergency
+7,Female,"Nausea, Fever, Chest pain",91/119,64,97.9,80,None,"Kidney Disease, None",Admitted in Emergency
+54,Female,"Fatigue, Shortness of breath, Nausea",135/72,138,100.1,96,"Dust, Pollen","Heart Disease, Asthma",No Admission in Emergency
+87,Male,Cough,113/80,119,103.9,99,"Penicillin, Dust","None, Asthma",No Admission at All
+67,Other,Chest pain,157/64,74,98.4,86,"Dust, Peanuts",Hypertension,No Admission at All
+25,Male,Nausea,102/65,133,95.8,80,"None, Peanuts",Heart Disease,Admitted in Emergency
+37,Female,"Cough, Fatigue",135/100,125,100.6,95,Pollen,Cancer,No Admission in Emergency
+4,Male,"Headache, Chest pain",136/113,129,103.2,83,"None, Peanuts","Heart Disease, Diabetes",No Admission in Emergency
+77,Male,Chest pain,148/119,101,100.0,100,"Pollen, Seafood","Heart Disease, Diabetes, Asthma",No Admission at All
+68,Female,Headache,163/73,130,98.3,83,"Pollen, None","Cancer, Diabetes, Kidney Disease",No Admission in Emergency
+37,Female,"Chest pain, Fever",153/65,67,96.0,93,Pollen,Heart Disease,No Admission at All
+67,Male,"Shortness of breath, Fever",130/83,77,103.7,99,Penicillin,"Diabetes, Hypertension, Kidney Disease",No Admission at All
+18,Other,Headache,167/107,118,99.9,94,"Penicillin, Dust",Asthma,No Admission at All
+38,Other,Headache,179/61,101,99.9,89,Seafood,Cancer,No Admission at All
+76,Male,Shortness of breath,118/94,131,103.5,98,"Pollen, None","Diabetes, Hypertension",Admitted in Emergency
+82,Male,"Fever, Shortness of breath, Fatigue",154/72,88,98.2,82,Penicillin,None,No Admission in Emergency
+99,Male,"Headache, Cough",95/98,54,97.1,96,Seafood,"Cancer, Diabetes, None",No Admission in Emergency
+25,Male,"Cough, Fatigue",99/82,85,98.7,85,"Pollen, Peanuts","Asthma, Heart Disease, None",Admitted in Emergency
+60,Male,"Nausea, Shortness of breath",142/86,69,102.0,99,"Pollen, Penicillin",Hypertension,Admitted in Emergency
+96,Other,Fever,156/116,141,99.7,87,Seafood,Cancer,No Admission at All
+73,Female,"Nausea, Shortness of breath, Cough",109/76,113,96.5,93,Peanuts,"None, Kidney Disease",No Admission at All
+13,Male,Chest pain,106/88,150,102.3,96,"Pollen, Penicillin","Asthma, Cancer, Hypertension",No Admission at All
+12,Male,"Headache, Nausea, Fatigue",100/77,82,98.2,86,Peanuts,"Hypertension, Heart Disease, Kidney Disease",No Admission at All
+44,Other,Cough,143/65,121,95.9,83,"Dust, Peanuts","Asthma, None",No Admission in Emergency
+85,Other,Fatigue,149/110,77,96.7,83,"Pollen, Peanuts","Asthma, Cancer, Diabetes",No Admission in Emergency
+9,Female,"Fatigue, Nausea, Fever",93/71,124,96.1,88,"Peanuts, None","Cancer, Hypertension, Asthma",No Admission in Emergency
+23,Female,Chest pain,141/82,105,97.0,89,Pollen,"Asthma, Hypertension, Cancer",Admitted in Emergency
+86,Female,Cough,107/61,103,101.0,86,"Peanuts, Pollen","Heart Disease, Kidney Disease, Cancer",Admitted in Emergency
+73,Male,"Chest pain, Fatigue",156/114,78,96.1,81,"Pollen, Dust","None, Asthma, Cancer",No Admission in Emergency
+61,Other,"Fatigue, Cough, Chest pain",168/101,145,96.9,87,Penicillin,"Asthma, None",Admitted in Emergency
+36,Other,"Fatigue, Chest pain",109/64,78,100.0,99,"Pollen, Penicillin",Asthma,No Admission at All
+33,Female,"Fatigue, Nausea, Cough",150/106,96,103.6,81,"Pollen, None","Asthma, Kidney Disease, Hypertension",No Admission at All
+74,Male,"Nausea, Headache",180/104,75,96.3,98,"Penicillin, Peanuts","Hypertension, Asthma",No Admission in Emergency
+93,Female,"Cough, Shortness of breath, Fever",96/103,150,102.8,98,"Seafood, Dust","Heart Disease, Kidney Disease",Admitted in Emergency
+26,Male,Fatigue,114/63,53,96.0,81,Penicillin,Cancer,No Admission at All
+91,Male,"Chest pain, Fatigue, Nausea",141/108,62,102.7,83,"Dust, Pollen","Cancer, Hypertension, Kidney Disease",Admitted in Emergency
+83,Male,Cough,92/79,67,97.7,88,None,"Cancer, Asthma",Admitted in Emergency
+84,Other,"Fatigue, Nausea",174/70,86,101.0,90,"Pollen, Peanuts",Hypertension,No Admission in Emergency
+47,Other,"Cough, Shortness of breath",142/82,124,99.0,93,Dust,"Hypertension, Asthma",Admitted in Emergency
+34,Female,"Cough, Nausea",151/109,73,102.2,93,"Dust, Pollen","Kidney Disease, Heart Disease, Cancer",No Admission at All
+48,Other,"Shortness of breath, Fatigue, Cough",161/90,130,102.7,85,Dust,Cancer,Admitted in Emergency
+48,Male,"Fatigue, Fever, Nausea",160/99,87,102.8,98,"Pollen, None",Hypertension,Admitted in Emergency
+66,Male,Nausea,174/61,132,98.5,100,"None, Dust","Kidney Disease, Hypertension",No Admission in Emergency
+72,Other,"Shortness of breath, Headache, Nausea",147/85,133,96.5,94,Dust,"Diabetes, Heart Disease",No Admission at All
+84,Other,"Fatigue, Shortness of breath",90/78,107,96.8,100,"None, Dust","Hypertension, Heart Disease, Cancer",No Admission at All
+39,Female,"Cough, Chest pain",135/82,96,97.4,91,"Dust, Peanuts",Hypertension,Admitted in Emergency
+22,Female,"Headache, Shortness of breath",161/67,107,102.7,92,Peanuts,"Cancer, Diabetes",No Admission in Emergency
+32,Other,Nausea,168/89,65,99.1,87,Pollen,Kidney Disease,No Admission at All
+12,Female,"Shortness of breath, Fever",120/98,128,104.1,80,"None, Seafood",Cancer,No Admission at All
+58,Male,"Nausea, Headache",159/82,98,99.0,83,"None, Seafood","Hypertension, Asthma, None",No Admission at All
+28,Female,"Cough, Nausea, Fatigue",120/104,108,96.6,93,"None, Peanuts",Diabetes,No Admission at All
+55,Other,Fever,154/68,138,96.4,96,Seafood,"Cancer, Kidney Disease, Diabetes",Admitted in Emergency
+63,Female,Headache,149/100,139,102.5,96,"Seafood, Penicillin",Diabetes,No Admission in Emergency
+63,Other,Chest pain,116/88,134,99.2,94,Penicillin,Diabetes,No Admission in Emergency
+19,Male,"Headache, Fatigue, Fever",118/76,103,98.1,83,"Seafood, Dust","Heart Disease, Cancer, Hypertension",Admitted in Emergency
+51,Male,Nausea,119/95,94,95.7,92,"Pollen, Dust","Diabetes, Cancer",No Admission in Emergency
+26,Female,"Nausea, Cough, Fatigue",114/102,61,100.7,99,"Penicillin, Peanuts","Cancer, Asthma, Diabetes",No Admission at All
+81,Female,"Headache, Fever",157/63,93,102.9,81,"None, Seafood","Asthma, Diabetes",No Admission at All
+13,Female,"Shortness of breath, Chest pain, Headache",180/97,90,102.6,82,"Dust, None","Kidney Disease, None, Diabetes",Admitted in Emergency
+37,Female,Fatigue,162/69,58,99.2,94,None,Hypertension,No Admission in Emergency
+55,Female,Shortness of breath,105/120,141,97.3,98,Penicillin,Diabetes,Admitted in Emergency
+76,Female,Shortness of breath,103/93,111,96.9,90,Penicillin,"None, Hypertension, Kidney Disease",No Admission at All
+59,Female,"Fever, Chest pain, Nausea",178/77,72,102.0,99,"Pollen, Peanuts","Hypertension, Asthma",Admitted in Emergency
+90,Female,"Cough, Fever, Shortness of breath",150/94,149,97.3,85,"None, Dust","Diabetes, Kidney Disease",Admitted in Emergency
+4,Other,"Shortness of breath, Headache, Cough",155/65,54,99.8,83,Peanuts,"Diabetes, Cancer",No Admission in Emergency
+74,Other,"Fever, Cough, Shortness of breath",161/86,62,104.8,98,"None, Dust","Kidney Disease, Heart Disease, Hypertension",Admitted in Emergency
+40,Other,"Cough, Nausea, Fatigue",143/92,73,104.6,83,Peanuts,"None, Heart Disease, Cancer",No Admission at All
+33,Other,"Cough, Fever, Shortness of breath",137/64,139,96.8,86,"Peanuts, None",Asthma,No Admission in Emergency
+52,Other,"Cough, Fatigue",157/105,105,95.4,90,"None, Seafood",Cancer,No Admission at All
+50,Other,"Shortness of breath, Chest pain",169/98,120,100.6,90,Seafood,"Diabetes, None",No Admission at All
+62,Male,Nausea,94/89,140,101.4,93,Pollen,"Diabetes, Cancer, Hypertension",Admitted in Emergency
+3,Other,"Cough, Shortness of breath, Fatigue",171/85,94,99.6,84,None,"Kidney Disease, Heart Disease, None",No Admission at All
+77,Male,Fever,146/101,121,100.0,92,"Penicillin, Pollen","Heart Disease, None",Admitted in Emergency
+9,Other,"Shortness of breath, Chest pain, Nausea",123/76,123,99.0,87,"Penicillin, Pollen","Kidney Disease, Hypertension",No Admission in Emergency
+47,Female,"Nausea, Headache",150/79,140,95.4,97,Pollen,"Heart Disease, Diabetes, None",No Admission in Emergency
+13,Female,Fatigue,129/105,90,103.5,97,"Penicillin, Pollen","Asthma, Diabetes, Kidney Disease",No Admission at All
+43,Male,Fatigue,116/110,59,102.5,93,Pollen,"Kidney Disease, None, Cancer",No Admission in Emergency
+73,Male,Cough,123/72,119,103.2,84,"Pollen, Seafood","Hypertension, Asthma, Heart Disease",No Admission at All
+24,Female,"Shortness of breath, Chest pain",141/116,61,104.3,95,Penicillin,Hypertension,Admitted in Emergency
+24,Other,Cough,105/98,108,100.5,83,"Pollen, Peanuts",Heart Disease,No Admission in Emergency
+22,Female,Nausea,109/78,78,102.6,97,"Peanuts, None","Diabetes, Asthma, None",No Admission in Emergency
+10,Female,"Cough, Fever",153/113,66,95.7,84,"Seafood, None","Asthma, Hypertension, None",No Admission at All
+80,Male,Nausea,97/79,112,104.1,85,"Peanuts, None","Kidney Disease, Heart Disease",Admitted in Emergency
+91,Female,"Shortness of breath, Headache",151/90,82,96.2,85,"Pollen, Peanuts","Hypertension, None",No Admission in Emergency
+3,Female,"Shortness of breath, Nausea, Chest pain",180/98,116,102.5,93,"Peanuts, None","Hypertension, Heart Disease, Cancer",No Admission at All
+83,Other,"Cough, Fever, Headache",165/117,126,96.2,85,"Dust, Seafood","Hypertension, Asthma",No Admission in Emergency
+42,Other,Headache,137/75,109,98.2,88,Penicillin,"None, Heart Disease, Kidney Disease",No Admission in Emergency
+43,Other,"Headache, Fever",158/73,121,104.1,83,"Penicillin, Peanuts","Kidney Disease, Diabetes, Asthma",No Admission in Emergency
+40,Female,Chest pain,131/98,126,98.9,98,None,None,No Admission in Emergency
+47,Male,"Headache, Chest pain, Nausea",127/115,103,101.2,98,"Penicillin, None","Asthma, Diabetes",No Admission at All
+79,Male,"Headache, Fever, Fatigue",107/67,123,96.6,89,Pollen,"Heart Disease, Asthma",Admitted in Emergency
+16,Male,"Fever, Headache, Fatigue",90/106,140,104.6,88,"Dust, None",Kidney Disease,No Admission in Emergency
+41,Other,"Headache, Shortness of breath, Chest pain",103/116,53,103.9,93,Peanuts,"Heart Disease, Kidney Disease, None",No Admission in Emergency
+79,Other,Headache,121/92,116,103.3,82,"Peanuts, Dust","Cancer, None, Kidney Disease",No Admission in Emergency
+37,Male,"Fever, Fatigue, Nausea",110/79,120,96.7,90,None,None,No Admission in Emergency
+19,Male,"Shortness of breath, Cough",172/90,99,98.1,82,"Peanuts, Pollen","Heart Disease, Kidney Disease, Cancer",Admitted in Emergency
+12,Female,"Chest pain, Cough",152/66,148,99.5,85,Seafood,"None, Hypertension, Kidney Disease",Admitted in Emergency
+93,Other,"Fever, Nausea",124/76,147,104.4,95,Seafood,"Diabetes, Asthma, Hypertension",No Admission in Emergency
+86,Male,"Headache, Nausea",92/107,148,104.7,96,"Dust, None",None,No Admission at All
+13,Other,"Cough, Fever",139/73,79,95.1,86,Seafood,Cancer,Admitted in Emergency
+56,Female,"Shortness of breath, Fatigue, Nausea",142/81,149,102.4,87,Pollen,"Cancer, Kidney Disease, Hypertension",No Admission in Emergency
+85,Male,"Headache, Shortness of breath",128/60,62,104.2,87,Peanuts,"Diabetes, Kidney Disease, None",Admitted in Emergency
+71,Other,"Chest pain, Cough",115/90,74,102.5,81,"Pollen, Seafood",Diabetes,No Admission in Emergency
+64,Female,Chest pain,152/63,121,101.6,96,"Dust, Peanuts","Cancer, None, Heart Disease",No Admission at All
+90,Other,Chest pain,175/119,71,98.1,100,"Penicillin, Pollen","Kidney Disease, Hypertension, Diabetes",No Admission at All
+57,Male,Cough,98/66,138,96.3,92,Pollen,"Heart Disease, Cancer",No Admission at All
+89,Male,"Nausea, Fever, Shortness of breath",123/117,53,99.4,94,"Pollen, Seafood","Asthma, Kidney Disease, None",No Admission at All
+14,Other,"Headache, Fatigue, Shortness of breath",121/110,82,101.9,86,"Pollen, Dust","Asthma, Hypertension, Heart Disease",No Admission at All
+73,Other,"Cough, Fever, Nausea",170/81,101,104.4,100,None,Heart Disease,Admitted in Emergency
+5,Male,"Headache, Shortness of breath",96/84,63,103.5,95,Seafood,"Asthma, Kidney Disease, None",No Admission at All
+81,Male,"Chest pain, Shortness of breath",150/79,65,101.1,81,Dust,"Heart Disease, None, Asthma",No Admission in Emergency
+61,Female,Chest pain,155/69,56,102.5,94,Dust,"Heart Disease, None",No Admission at All
+61,Female,"Fever, Fatigue",124/104,61,97.2,96,Seafood,"Cancer, Asthma",Admitted in Emergency
+59,Male,"Chest pain, Fever, Nausea",104/60,66,101.0,97,Pollen,"Kidney Disease, Hypertension, Diabetes",No Admission in Emergency
+93,Other,Headache,168/72,118,103.1,97,"Pollen, Seafood","Kidney Disease, Heart Disease",No Admission at All
+27,Female,Cough,172/106,80,99.5,85,"Pollen, Peanuts",Hypertension,Admitted in Emergency
+15,Other,"Cough, Chest pain",129/91,140,98.4,97,"Penicillin, None","None, Hypertension, Kidney Disease",Admitted in Emergency
+35,Male,Headache,150/70,58,98.1,97,Peanuts,"Cancer, Asthma",No Admission at All
+68,Male,"Cough, Fever",113/107,61,99.2,93,"Peanuts, Penicillin",Cancer,No Admission in Emergency
+44,Female,Fever,131/119,61,98.7,97,Pollen,Diabetes,No Admission at All
+7,Other,Cough,131/62,146,97.8,97,None,"Heart Disease, Cancer",No Admission in Emergency
+24,Other,"Cough, Nausea",116/61,99,103.4,93,Pollen,"Hypertension, Heart Disease",No Admission at All
+62,Other,"Nausea, Headache, Chest pain",162/115,74,99.9,88,"Dust, Penicillin","Heart Disease, Diabetes",No Admission at All
+19,Female,Nausea,104/70,71,96.4,96,Pollen,"Cancer, Kidney Disease, Hypertension",No Admission at All
+37,Other,"Shortness of breath, Chest pain, Cough",111/89,127,104.5,96,None,"Heart Disease, Asthma, Hypertension",Admitted in Emergency
+89,Male,"Headache, Nausea",138/76,113,96.2,98,Pollen,Hypertension,No Admission at All
+8,Female,"Fever, Headache, Nausea",159/113,70,104.0,87,"Seafood, Peanuts",None,No Admission at All
+66,Other,Nausea,173/76,124,101.9,90,"Penicillin, Pollen",Kidney Disease,Admitted in Emergency
+49,Other,Cough,142/99,74,96.9,100,Dust,"Asthma, Hypertension",No Admission in Emergency
+99,Male,"Cough, Headache, Fatigue",165/84,88,99.2,93,Dust,"Asthma, Hypertension, Cancer",No Admission at All
+16,Other,Nausea,138/67,53,96.8,82,"Dust, Penicillin","Kidney Disease, None",No Admission in Emergency
+81,Other,Nausea,100/73,119,103.0,87,"Pollen, Dust","Kidney Disease, Heart Disease, Asthma",No Admission at All
+94,Female,Nausea,106/97,120,104.5,80,"Pollen, Peanuts",Diabetes,No Admission in Emergency
+49,Female,"Shortness of breath, Nausea",159/99,118,96.3,100,"None, Dust",Hypertension,No Admission in Emergency
+45,Other,Chest pain,97/120,122,98.2,86,None,"Cancer, None",No Admission in Emergency
+3,Other,"Fever, Nausea, Fatigue",155/93,54,103.1,83,None,"Kidney Disease, Asthma, None",No Admission at All
+30,Male,"Fatigue, Shortness of breath, Chest pain",134/63,106,98.6,87,Seafood,Heart Disease,No Admission in Emergency
+3,Male,"Shortness of breath, Headache, Chest pain",90/87,145,95.1,95,Seafood,"Asthma, Hypertension, Cancer",No Admission in Emergency
+66,Other,"Cough, Shortness of breath",149/117,71,97.9,86,Pollen,"Kidney Disease, Hypertension, Diabetes",Admitted in Emergency
+97,Female,"Chest pain, Headache, Nausea",177/112,89,96.6,84,Pollen,Hypertension,No Admission in Emergency
+41,Female,"Fever, Headache",122/71,143,103.6,80,Pollen,Cancer,Admitted in Emergency
+91,Female,"Chest pain, Nausea, Shortness of breath",142/84,63,101.6,92,"None, Penicillin","Asthma, Heart Disease",Admitted in Emergency
+19,Female,"Fever, Nausea",146/96,83,98.9,91,Pollen,"Asthma, Heart Disease, None",No Admission in Emergency
+39,Female,"Fatigue, Nausea, Fever",100/69,90,100.5,83,Peanuts,"Heart Disease, Cancer, Asthma",No Admission in Emergency
+25,Female,"Cough, Headache",113/73,85,99.9,88,Seafood,"None, Kidney Disease, Diabetes",No Admission in Emergency
+51,Other,Chest pain,94/68,57,101.8,97,Penicillin,Hypertension,No Admission at All
+99,Female,"Nausea, Headache, Fatigue",93/71,104,97.9,95,Penicillin,Hypertension,Admitted in Emergency
+72,Other,Headache,129/94,140,101.3,86,Seafood,"Kidney Disease, Hypertension, None",Admitted in Emergency
+23,Male,"Fever, Chest pain, Nausea",130/114,130,101.1,82,None,"Asthma, Cancer",No Admission in Emergency
+36,Other,"Cough, Headache, Nausea",164/63,129,102.0,92,Peanuts,"Asthma, Cancer",No Admission in Emergency
+17,Other,"Nausea, Fatigue",112/118,107,97.3,96,Seafood,"Hypertension, Asthma",No Admission at All
+88,Other,"Cough, Chest pain, Fatigue",120/106,63,96.3,89,"Pollen, None",Kidney Disease,No Admission at All
+81,Other,"Fever, Chest pain",120/108,92,102.5,85,Penicillin,Heart Disease,No Admission at All
+76,Female,"Nausea, Headache, Fever",138/107,110,97.2,90,Seafood,Asthma,No Admission at All
+2,Female,Nausea,138/114,101,99.3,84,"Dust, Pollen",Asthma,Admitted in Emergency
+33,Female,"Chest pain, Fatigue",106/85,111,99.1,87,Peanuts,Hypertension,No Admission at All
+71,Other,"Nausea, Chest pain",146/63,68,98.4,81,Pollen,"Diabetes, Cancer, Hypertension",Admitted in Emergency
+97,Other,Fatigue,165/91,101,96.4,80,"Dust, Peanuts",None,No Admission in Emergency
+69,Other,Shortness of breath,115/101,148,104.6,97,Penicillin,Heart Disease,Admitted in Emergency
+58,Male,"Cough, Fatigue",118/79,106,99.5,80,Penicillin,Kidney Disease,Admitted in Emergency
+71,Female,Fatigue,116/62,144,104.3,85,None,"Heart Disease, Asthma",No Admission in Emergency
+73,Female,"Fever, Nausea",116/63,137,96.8,80,"None, Penicillin","Kidney Disease, None",No Admission at All
+53,Female,Fever,125/78,53,99.2,89,Penicillin,"Diabetes, None, Kidney Disease",Admitted in Emergency
+38,Female,"Fever, Headache",103/104,81,100.1,95,Dust,"Kidney Disease, Diabetes",Admitted in Emergency
+32,Other,"Fatigue, Fever, Cough",106/62,95,101.3,89,"Pollen, Penicillin","Diabetes, Cancer",No Admission at All
+90,Female,"Shortness of breath, Chest pain, Cough",166/113,127,98.8,99,None,"Kidney Disease, None, Heart Disease",No Admission in Emergency
+58,Female,Fatigue,162/74,74,101.1,85,Penicillin,"Kidney Disease, Cancer",No Admission in Emergency
+39,Other,"Fever, Cough, Fatigue",100/99,101,104.8,92,Seafood,Cancer,Admitted in Emergency
+30,Other,"Shortness of breath, Headache",102/71,75,104.1,89,"Peanuts, Penicillin","Diabetes, Heart Disease",No Admission in Emergency
+65,Other,"Fatigue, Cough, Fever",161/63,84,104.2,96,"Seafood, Pollen","Kidney Disease, Cancer",No Admission in Emergency
+12,Other,Shortness of breath,134/107,72,96.8,93,"None, Pollen","Kidney Disease, Hypertension, Cancer",Admitted in Emergency
+62,Other,Fever,123/83,51,103.9,86,"None, Peanuts","Diabetes, Heart Disease",Admitted in Emergency
+39,Male,"Headache, Fatigue",128/89,59,101.3,91,Dust,Asthma,Admitted in Emergency
+17,Other,Chest pain,173/114,79,103.6,87,"Peanuts, Penicillin",Heart Disease,No Admission at All
+94,Other,"Shortness of breath, Fatigue, Nausea",99/74,147,100.5,83,None,"Diabetes, Hypertension",No Admission at All
+41,Male,"Chest pain, Nausea",133/100,150,102.5,99,Peanuts,Cancer,No Admission in Emergency
+86,Female,"Fever, Nausea, Cough",144/114,101,96.7,98,Dust,"Asthma, Kidney Disease",No Admission in Emergency
+75,Female,"Fatigue, Chest pain",163/119,83,99.8,84,"Peanuts, None",Kidney Disease,Admitted in Emergency
+62,Female,"Fever, Headache",121/105,122,103.7,98,Pollen,"Cancer, Asthma, Hypertension",Admitted in Emergency
+85,Other,"Cough, Chest pain, Headache",132/78,59,104.5,92,"Seafood, Peanuts",Hypertension,No Admission at All
+45,Male,Fatigue,120/73,74,99.5,89,"Seafood, Pollen",None,No Admission in Emergency
+64,Female,"Shortness of breath, Nausea",151/97,100,95.3,85,"None, Peanuts","Cancer, Diabetes, Kidney Disease",No Admission at All
+26,Female,"Headache, Shortness of breath",161/90,118,98.5,100,"Dust, Peanuts","Cancer, Hypertension, Asthma",No Admission in Emergency
+19,Male,"Chest pain, Cough",147/63,120,104.7,97,"Penicillin, Peanuts",None,No Admission in Emergency
+91,Female,"Cough, Nausea",134/107,118,97.1,90,"Pollen, Peanuts","Diabetes, Heart Disease",No Admission at All
+74,Other,"Nausea, Fatigue",148/109,70,97.8,97,"Seafood, Pollen","None, Heart Disease, Asthma",No Admission at All
+4,Other,"Nausea, Headache, Shortness of breath",122/111,61,95.4,81,"Dust, Seafood","Hypertension, Cancer, None",Admitted in Emergency
+53,Other,Fever,138/87,129,95.0,82,"Seafood, None","Hypertension, None, Kidney Disease",No Admission in Emergency
+95,Male,Fever,99/68,51,103.8,87,"Pollen, Seafood","Kidney Disease, Hypertension, Heart Disease",Admitted in Emergency
+44,Other,"Nausea, Cough, Headache",170/92,133,98.7,84,Peanuts,"Kidney Disease, Diabetes, Cancer",Admitted in Emergency
+30,Male,"Cough, Nausea, Chest pain",102/110,134,102.2,86,Dust,"Cancer, Hypertension, Diabetes",Admitted in Emergency
+71,Male,Fever,145/118,109,97.9,94,"Penicillin, Dust",Cancer,Admitted in Emergency
+97,Other,Headache,123/79,63,97.4,80,Penicillin,None,Admitted in Emergency
+46,Other,"Cough, Fatigue",155/105,100,104.7,98,Penicillin,"Hypertension, Asthma",No Admission at All
+62,Female,"Headache, Fatigue",157/93,115,101.4,92,Pollen,Hypertension,No Admission in Emergency
+90,Other,"Nausea, Fever, Headache",132/114,89,102.4,89,Dust,Heart Disease,Admitted in Emergency
+62,Other,Fatigue,133/80,52,102.0,87,Penicillin,"Asthma, Hypertension",No Admission at All
+88,Other,"Fever, Fatigue, Nausea",123/66,59,99.5,84,"Penicillin, Seafood","Heart Disease, Asthma",No Admission at All
+98,Male,Fatigue,154/63,142,103.8,87,Dust,"Kidney Disease, Diabetes",Admitted in Emergency
+16,Other,"Headache, Fever, Fatigue",115/88,81,103.6,95,Pollen,"Hypertension, None, Heart Disease",No Admission at All
+69,Male,"Shortness of breath, Fever, Cough",142/98,52,95.2,93,Peanuts,None,No Admission at All
+65,Male,"Headache, Chest pain, Fever",112/99,89,98.9,84,Dust,Heart Disease,No Admission in Emergency
+1,Male,"Fatigue, Headache, Fever",177/86,118,100.4,86,Peanuts,"Heart Disease, Asthma",Admitted in Emergency
+64,Other,"Nausea, Headache, Cough",136/80,120,97.7,80,Seafood,"Asthma, None, Hypertension",Admitted in Emergency
+81,Female,"Shortness of breath, Headache",151/104,62,95.8,92,"Pollen, Dust","Heart Disease, Hypertension",No Admission in Emergency
+57,Male,Shortness of breath,133/72,94,95.0,86,"Penicillin, None","Hypertension, Kidney Disease, None",No Admission at All
+64,Male,Shortness of breath,138/89,83,102.6,94,Peanuts,"Cancer, Diabetes, Asthma",Admitted in Emergency
+30,Other,Headache,94/104,114,104.8,83,Penicillin,"None, Kidney Disease",No Admission in Emergency
+4,Male,"Headache, Cough, Chest pain",169/102,95,103.0,95,"Penicillin, Peanuts",None,No Admission at All
+61,Other,"Shortness of breath, Cough",150/94,68,104.1,89,"Penicillin, None","Asthma, Kidney Disease",No Admission at All
+48,Other,"Headache, Fever",139/91,119,97.0,88,None,Diabetes,Admitted in Emergency
+19,Other,"Fever, Headache, Cough",121/98,83,102.2,99,"Penicillin, Seafood","Hypertension, None",No Admission in Emergency
+96,Male,Cough,97/90,102,102.0,87,None,"None, Heart Disease, Diabetes",No Admission at All
+81,Male,"Fatigue, Nausea, Headache",92/94,65,99.7,94,Penicillin,Heart Disease,Admitted in Emergency
+24,Female,"Fatigue, Cough",132/107,141,95.4,93,Seafood,"None, Kidney Disease",No Admission at All
+45,Female,Chest pain,147/111,103,102.4,93,"Pollen, Peanuts","Asthma, Hypertension",No Admission at All
+41,Male,"Headache, Shortness of breath, Fatigue",180/90,131,101.7,83,Peanuts,"None, Hypertension",Admitted in Emergency
+27,Male,"Cough, Shortness of breath, Headache",119/107,110,104.5,96,Seafood,"Asthma, Cancer",No Admission in Emergency
+66,Male,"Fever, Headache, Chest pain",140/98,55,96.0,82,"Peanuts, Dust",None,No Admission in Emergency
+34,Male,"Fever, Fatigue, Headache",100/69,97,103.0,94,Pollen,"Heart Disease, Kidney Disease",No Admission in Emergency
+73,Other,Fatigue,118/75,114,95.2,83,Seafood,"None, Kidney Disease, Diabetes",No Admission at All
+39,Female,"Shortness of breath, Nausea",150/75,121,100.9,100,None,"Diabetes, Kidney Disease",No Admission in Emergency
+29,Male,Chest pain,161/90,122,99.7,99,Penicillin,Heart Disease,Admitted in Emergency
+6,Other,"Shortness of breath, Fatigue",138/89,89,96.2,82,"Penicillin, Seafood","Heart Disease, Hypertension, Asthma",No Admission in Emergency
+11,Other,"Fatigue, Fever",90/77,117,99.3,98,Penicillin,"None, Diabetes, Heart Disease",No Admission at All
+57,Male,"Shortness of breath, Fatigue",115/77,138,96.0,85,Seafood,"Hypertension, Kidney Disease, Diabetes",No Admission in Emergency
+59,Female,"Chest pain, Headache, Fatigue",98/61,82,98.4,86,None,"Cancer, Hypertension, Asthma",Admitted in Emergency
+15,Female,Fatigue,114/63,83,99.5,90,Peanuts,"Heart Disease, None, Kidney Disease",No Admission at All
+83,Male,"Fever, Chest pain",120/84,122,101.9,88,"Dust, Peanuts",Heart Disease,No Admission in Emergency
+28,Female,"Fever, Shortness of breath, Cough",148/118,102,105.0,96,Dust,"Cancer, Hypertension",Admitted in Emergency
+13,Other,"Headache, Shortness of breath",158/77,63,102.7,88,Seafood,"Kidney Disease, Cancer",No Admission at All
+53,Other,Headache,102/61,61,96.2,99,"Dust, Pollen","Cancer, None, Asthma",Admitted in Emergency
+4,Other,"Fever, Shortness of breath, Headache",135/69,56,103.1,96,"Dust, Seafood",Diabetes,No Admission in Emergency
+98,Other,"Headache, Shortness of breath, Nausea",127/71,147,102.6,90,"None, Dust","Diabetes, Asthma, Heart Disease",No Admission at All
+21,Male,Shortness of breath,117/120,53,96.7,80,Penicillin,Heart Disease,Admitted in Emergency
+52,Male,"Chest pain, Nausea",161/110,146,101.3,92,"Dust, Seafood",Cancer,Admitted in Emergency
+62,Male,"Chest pain, Cough",176/63,56,98.6,84,"Penicillin, Peanuts",Kidney Disease,No Admission in Emergency
+65,Other,"Shortness of breath, Fatigue",144/115,123,97.0,92,Pollen,Cancer,Admitted in Emergency
+82,Other,"Cough, Nausea, Headache",96/68,144,95.8,81,"Pollen, None","Heart Disease, None",Admitted in Emergency
+79,Other,Shortness of breath,167/89,68,100.0,97,"Peanuts, Penicillin","Diabetes, Kidney Disease, Heart Disease",No Admission at All
+43,Female,"Fatigue, Chest pain, Nausea",137/60,114,99.4,82,Dust,Heart Disease,Admitted in Emergency
+77,Female,"Headache, Chest pain, Shortness of breath",103/111,121,97.4,80,None,"None, Kidney Disease",No Admission at All
+59,Female,"Fever, Nausea",172/102,119,96.9,95,"Peanuts, Pollen","Hypertension, Kidney Disease, None",Admitted in Emergency
+60,Male,"Shortness of breath, Fatigue",132/76,132,101.7,92,Dust,"Diabetes, Cancer",No Admission at All
+66,Female,"Chest pain, Cough, Fatigue",110/88,78,97.7,92,"Dust, Seafood",Diabetes,No Admission at All
+68,Other,"Nausea, Shortness of breath, Fatigue",101/118,133,95.2,82,"None, Penicillin",Cancer,No Admission at All
+97,Male,"Shortness of breath, Nausea",164/88,87,99.1,98,Dust,Hypertension,No Admission at All
+90,Other,Chest pain,133/97,54,102.0,83,Pollen,"Hypertension, Cancer",No Admission in Emergency
+8,Other,"Nausea, Fever",153/98,81,97.7,86,"Peanuts, Dust","Heart Disease, Diabetes, Cancer",Admitted in Emergency
+10,Other,"Shortness of breath, Headache, Nausea",90/102,58,103.7,93,Pollen,Asthma,Admitted in Emergency
+47,Female,Fever,145/72,127,99.7,94,Peanuts,None,No Admission in Emergency
+72,Female,Nausea,159/102,112,104.8,88,"Peanuts, None","Cancer, Kidney Disease",No Admission at All
+50,Female,Fever,150/90,57,95.6,100,Dust,Asthma,Admitted in Emergency
+55,Female,"Fever, Shortness of breath, Nausea",142/106,110,95.2,94,"Pollen, Peanuts","None, Kidney Disease",No Admission in Emergency
+4,Female,"Shortness of breath, Fever, Fatigue",106/117,111,104.8,99,"Dust, Penicillin","Diabetes, Kidney Disease",No Admission at All
+40,Male,"Chest pain, Nausea",97/60,104,104.5,92,Peanuts,"Cancer, Kidney Disease, None",Admitted in Emergency
+44,Male,"Cough, Chest pain, Shortness of breath",158/76,129,100.0,100,Penicillin,"Hypertension, Kidney Disease",No Admission in Emergency
+93,Male,"Cough, Chest pain, Shortness of breath",153/61,81,100.3,100,Peanuts,"Kidney Disease, Hypertension, Cancer",No Admission at All
+75,Male,Fever,119/76,56,99.7,92,Pollen,Diabetes,No Admission at All
+35,Female,Fatigue,176/65,71,104.0,88,None,Diabetes,No Admission at All
+92,Other,None,100/63,92,98.0,94,Penicillin,Cancer,No Admission at All
+16,Female,Shortness of breath,123/106,74,97.5,99,Penicillin,Heart Disease,No Admission at All
+74,Other,Headache,107/115,126,96.6,99,Pollen,Cancer,No Admission at All
+67,Male,Shortness of breath,114/72,110,96.3,86,None,Cancer,No Admission at All
+34,Male,None,156/107,127,98.6,88,Penicillin,Hypertension,No Admission at All
+21,Other,None,146/115,105,98.2,93,None,Diabetes,No Admission at All
+68,Other,Nausea,112/78,140,99.2,88,None,Hypertension,No Admission at All
+97,Female,Fever,108/70,65,98.1,91,Penicillin,Cancer,No Admission at All
+52,Male,Fever,177/82,76,102.4,92,Penicillin,Heart Disease,No Admission at All
+54,Male,Dizziness,108/91,66,97.3,88,Seafood,Asthma,No Admission at All
+76,Male,Headache,146/98,118,104.8,86,Peanuts,Hypertension,No Admission at All
+49,Female,Nausea,131/81,145,96.4,86,Peanuts,Heart Disease,No Admission at All
+98,Female,Fatigue,139/106,85,104.4,91,None,None,No Admission at All
+15,Female,Fatigue,178/91,87,103.6,86,Seafood,Hypertension,No Admission at All
+17,Female,Shortness of breath,132/109,140,96.0,87,Penicillin,Hypertension,No Admission at All
+36,Other,Nausea,155/101,123,103.3,97,Seafood,Diabetes,No Admission at All
+4,Female,Fever,106/93,87,103.8,88,None,None,No Admission at All
+47,Other,Fatigue,153/103,62,102.7,91,None,Diabetes,No Admission at All
+54,Female,Dizziness,159/88,76,98.8,85,None,Heart Disease,No Admission at All
+82,Male,Fever,175/79,139,104.1,94,Peanuts,Cancer,No Admission at All
+29,Female,Cough,95/71,74,96.6,98,Peanuts,Hypertension,No Admission at All
+55,Male,Nausea,109/101,91,96.4,87,Peanuts,Diabetes,No Admission at All
+70,Other,Headache,149/98,118,95.2,87,Pollen,Diabetes,No Admission at All
+21,Female,Fever,154/114,136,96.3,88,Peanuts,Asthma,No Admission at All
+73,Female,Fever,145/105,64,103.5,92,Penicillin,Heart Disease,No Admission at All
+33,Female,Headache,170/67,63,99.9,87,None,Cancer,No Admission at All
+15,Female,Dizziness,92/95,145,100.8,95,Pollen,Diabetes,No Admission at All
+67,Female,Fatigue,168/70,145,101.5,89,Pollen,Hypertension,No Admission at All
+44,Female,Shortness of breath,96/77,84,98.0,95,Penicillin,Hypertension,No Admission at All
+21,Female,Fatigue,115/88,61,104.2,91,Seafood,Cancer,No Admission at All
+60,Other,Headache,129/80,59,104.3,97,Pollen,Hypertension,No Admission at All
+82,Male,Shortness of breath,117/62,52,99.4,91,None,Cancer,No Admission at All
+4,Male,Shortness of breath,158/119,86,103.0,98,Penicillin,Cancer,No Admission at All
+72,Male,None,130/98,52,96.8,88,Penicillin,Hypertension,No Admission at All
+88,Female,Dizziness,140/77,135,96.2,90,None,None,No Admission at All
+68,Male,Dizziness,132/106,77,96.2,97,Peanuts,None,No Admission at All
+73,Other,Shortness of breath,145/105,122,99.2,88,Pollen,Diabetes,No Admission at All
+51,Male,None,176/75,86,102.3,91,None,Cancer,No Admission at All
+24,Other,Shortness of breath,129/81,113,101.6,90,None,Asthma,No Admission at All
+86,Other,Fatigue,163/70,147,96.5,86,None,Cancer,No Admission at All
+37,Female,Nausea,155/119,67,103.4,85,Seafood,Cancer,No Admission at All
+30,Male,Shortness of breath,112/76,90,95.1,86,Penicillin,None,No Admission at All
+73,Female,Fever,140/99,123,100.3,99,Peanuts,Diabetes,No Admission at All
+38,Male,None,172/83,99,100.5,86,Penicillin,Diabetes,No Admission at All
+58,Female,Fatigue,163/71,102,100.3,88,Peanuts,None,No Admission at All
+57,Other,Fatigue,156/105,81,99.1,91,Seafood,Cancer,No Admission at All
+57,Other,Headache,135/98,134,98.6,88,Seafood,Heart Disease,No Admission at All
+26,Other,Fatigue,132/86,130,99.6,88,Seafood,Asthma,No Admission at All
+28,Male,Cough,126/63,62,104.0,99,Seafood,None,No Admission at All
+32,Male,Dizziness,113/78,133,96.2,94,Peanuts,Cancer,No Admission at All
+26,Female,None,162/111,114,102.5,90,Pollen,Asthma,No Admission at All
+45,Male,Dizziness,101/80,114,100.0,90,Seafood,Heart Disease,No Admission at All
+71,Male,Fatigue,167/116,64,98.6,99,Seafood,Asthma,No Admission at All
+99,Other,Fever,93/108,68,98.5,88,Penicillin,None,No Admission at All
+43,Male,Shortness of breath,94/89,89,101.5,91,Peanuts,None,No Admission at All
+33,Male,Nausea,113/106,61,95.8,90,Seafood,Hypertension,No Admission at All
+39,Female,None,158/88,126,102.5,94,Peanuts,Hypertension,No Admission at All
+15,Male,Shortness of breath,157/90,127,97.0,90,Penicillin,Asthma,No Admission at All
+67,Female,Headache,126/81,108,99.6,91,Pollen,Hypertension,No Admission at All
+23,Other,Fatigue,165/81,61,98.3,86,Seafood,None,No Admission at All
+71,Female,Shortness of breath,92/79,82,95.5,96,Penicillin,None,No Admission at All
+87,Other,Dizziness,90/100,116,99.7,96,Penicillin,Heart Disease,No Admission at All
+42,Female,Fever,179/96,112,96.1,99,Seafood,Asthma,No Admission at All
+45,Other,Cough,177/92,112,102.6,91,Penicillin,Heart Disease,No Admission at All
+65,Male,Dizziness,171/66,69,104.4,98,None,Cancer,No Admission at All
+89,Other,Fatigue,124/64,125,98.4,89,Penicillin,Hypertension,No Admission at All
+28,Other,Headache,123/76,128,101.8,88,Penicillin,Diabetes,No Admission at All
+77,Male,Dizziness,147/67,125,95.2,96,None,None,No Admission at All
+31,Male,Dizziness,128/111,91,95.3,87,None,Asthma,No Admission at All
+26,Other,Fever,98/67,88,102.5,86,Pollen,Cancer,No Admission at All
+49,Male,None,171/81,55,95.8,99,Seafood,Diabetes,No Admission at All
+9,Female,Fever,137/81,61,101.9,94,Penicillin,Cancer,No Admission at All
+20,Male,None,126/106,66,96.5,93,Penicillin,Asthma,No Admission at All
+33,Male,Headache,151/79,89,100.1,97,Penicillin,None,No Admission at All
+13,Other,Fatigue,144/106,104,103.1,94,Seafood,Diabetes,No Admission at All
+37,Other,Fever,113/67,111,96.1,98,Penicillin,Diabetes,No Admission at All
+61,Male,None,90/100,103,98.7,85,Peanuts,Cancer,No Admission at All
+19,Male,Headache,154/103,109,97.4,91,None,Hypertension,No Admission at All
+57,Female,Nausea,144/80,77,103.0,91,None,Hypertension,No Admission at All
+11,Male,Shortness of breath,131/84,147,95.2,95,Pollen,Diabetes,No Admission at All
+89,Female,Dizziness,99/87,75,99.9,92,Seafood,Asthma,No Admission at All
+27,Male,Nausea,169/102,134,98.7,85,None,Diabetes,No Admission at All
+41,Other,Cough,107/64,110,95.3,99,Seafood,Cancer,No Admission at All
+50,Female,Cough,173/119,145,97.5,96,Seafood,Asthma,No Admission at All
+42,Female,Fever,172/80,57,96.3,93,Penicillin,None,No Admission at All
+19,Female,Cough,138/84,142,96.4,89,Penicillin,Asthma,No Admission at All
+14,Male,Headache,109/115,143,95.8,91,Seafood,Heart Disease,No Admission at All
+19,Other,Shortness of breath,161/95,92,101.9,85,Penicillin,Cancer,No Admission at All
+82,Male,Headache,115/108,147,101.4,94,Seafood,Hypertension,No Admission at All
+83,Other,Fever,178/72,74,100.9,88,Seafood,None,No Admission at All
+95,Other,None,171/94,110,96.4,90,Pollen,Cancer,No Admission at All
+29,Male,Shortness of breath,172/72,105,102.3,99,Peanuts,Diabetes,No Admission at All
+55,Male,Shortness of breath,137/109,104,104.1,97,Penicillin,Diabetes,No Admission at All
+63,Female,Cough,153/83,149,99.0,97,Penicillin,None,No Admission at All
+61,Male,None,167/90,126,102.0,92,Pollen,None,No Admission at All
+9,Female,Headache,178/97,59,96.7,92,Pollen,Heart Disease,No Admission at All
+66,Other,Fatigue,158/112,122,103.3,87,Seafood,Heart Disease,No Admission at All
+96,Male,Nausea,167/63,122,104.6,88,Penicillin,Cancer,No Admission at All
