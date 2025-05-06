@@ -10,6 +10,7 @@ import EmergencyCases from './pages/EmergencyCases';
 import DoctorsOnDuty from './pages/DoctorsOnDuty';
 import EmergencyPrediction from './pages/EmergencyPrediction';
 import Login from './pages/Login';
+import PredictionResult from './pages/PredictionResult';
 import './App.css';
 
 const theme = createTheme({
@@ -48,6 +49,7 @@ function App() {
                   <Route path="emergency" element={<EmergencyCases />} />
                   <Route path="doctors" element={<DoctorsOnDuty />} />
                   <Route path="emergency-prediction" element={<EmergencyPrediction />} />
+                  <Route path="prediction-result" element={<PredictionResult />} />
                 </Routes>
               </Layout>
             }
