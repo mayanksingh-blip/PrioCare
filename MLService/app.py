@@ -25,7 +25,7 @@ le_gender.fit(['Male', 'Female', 'Other'])
 all_symptoms = ['Headache', 'Chest pain', 'Fever', 'Nausea', 'Cough', 'Shortness of breath', 'Fatigue']
 all_conditions = ['Asthma', 'Cancer', 'Diabetes', 'Hypertension', 'Heart Disease', 'Kidney Disease']
 
-def classify_emergency(prob, emergency_thresh=0.9, no_emergency_thresh=0.3):
+def classify_emergency(prob, emergency_thresh=0.8, no_emergency_thresh=0.4):
     if prob >= emergency_thresh:
         return "emergency"
     elif prob >= no_emergency_thresh:
@@ -51,6 +51,7 @@ def predict():
     ]])
     rf_prob = rf_model.predict_proba(features)[0][1]
     lr_prob = lr_model.predict_proba(features)[0][1]
+    print(f"RF Prob: {rf_prob}, LR Prob: {lr_prob}")
     rf_pred = classify_emergency(rf_prob)
     lr_pred = classify_emergency(lr_prob)
     return jsonify({
